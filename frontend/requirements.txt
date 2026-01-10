@@ -1,35 +1,37 @@
-# Web Frameworks
+# Web & API (FastAPI + Uvicorn)
 fastapi
 uvicorn
-streamlit
+python-multipart
 requests
 python-dotenv
+httpx
 
-# AI & Data Models
+# Streamlit & UI
+streamlit
+streamlit-mic-recorder
+streamlit-geolocation
+
+# AI & Data
 groq
+pydantic
 sqlmodel
 datasets
-pydantic
+pandas
+numpy
 
-# Document & File Processing
+# Audio Processing (Crucial for Python 3.13)
+scipy
+noisereduce
+gTTS
+audioop-lts
+SpeechRecognition
+pyttsx3
+
+# Document & File Handling
 PyPDF2
 python-docx
 py7zr
 pillow
 
-# Audio & Voice Processing
-scipy
-noisereduce
-gTTS
-pyttsx3
-audioop-lts
-SpeechRecognition
-
-# Data Science & Location
-pandas
-numpy
+# Location & Mapping
 geopy
-
-# Streamlit Components
-streamlit-mic-recorder
-streamlit-geolocation
