@@ -8,3 +8,6 @@ streamlit
 streamlit-mic-recorder
 streamlit-geolocation
 pandas
+scipy
+noisereduce
+SpeechRecognition
