@@ -10,6 +10,7 @@ from geopy.distance import geodesic
 
 # --- CONFIGURATION ---
 BASE_URL = "https://your-backend-service-name.onrender.com"
+BASE_URL = "https://synapse-v-assistant.onrender.com"
 NEWS_API_KEY = st.secrets["NEWS_API_KEY"]
 WEATHER_API_KEY = st.secrets["WEATHER_API_KEY"]
 HISTORY_FILE = "synapse_history.json"
