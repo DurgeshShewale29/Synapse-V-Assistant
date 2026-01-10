@@ -1,6 +1,10 @@
-streamlit
+fastapi
+uvicorn
+groq
 requests
-pandas
+geopy
+python-dotenv
+streamlit
 streamlit-mic-recorder
 streamlit-geolocation
-geopy
+pandas
