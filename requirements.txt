@@ -1,0 +1,6 @@
+streamlit
+requests
+pandas
+streamlit-mic-recorder
+streamlit-geolocation
+geopy
